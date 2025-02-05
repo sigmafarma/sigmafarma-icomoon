@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'Farmapremium';
-  src:  url('fonts/Farmapremium.eot?4bkppi');
-  src:  url('fonts/Farmapremium.eot?4bkppi#iefix') format('embedded-opentype'),
-    url('fonts/Farmapremium.ttf?4bkppi') format('truetype'),
-    url('fonts/Farmapremium.woff?4bkppi') format('woff'),
-    url('fonts/Farmapremium.svg?4bkppi#Farmapremium') format('svg');
+  font-family: 'Sigmafarma';
+  src:  url('fonts/Sigmafarma.eot?4bkppi');
+  src:  url('fonts/Sigmafarma.eot?4bkppi#iefix') format('embedded-opentype'),
+    url('fonts/Sigmafarma.ttf?4bkppi') format('truetype'),
+    url('fonts/Sigmafarma.woff?4bkppi') format('woff'),
+    url('fonts/Sigmafarma.svg?4bkppi#Sigmafarma') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Farmapremium' !important;
+  font-family: 'Sigmafarma' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
