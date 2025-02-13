@@ -13,7 +13,8 @@ Follow the instructions in the [Sigmafarma Component Library](https://components
 You can add the Icomoon font to your project by adding the following line to your HTML file:
 
 ```html
-<link rel="stylesheet" href="https://sigmafarma.github.io/sigmafarma-icomoon/v1.0/style.css">
+<!--current verion-->
+<link rel="stylesheet" href="https://sigmafarma.github.io/sigmafarma-icomoon/v1.0/style.css"> 
 ```
 
 Then you can use the icons in your HTML code like this:
@@ -23,4 +24,18 @@ Then you can use the icons in your HTML code like this:
 <i class="icon icon-name"></i>
 ```
 
+Versions are not deleted, so you can use the version you need by changing the version number in the URL. For example, to use version 1.0 of the font, you can use the following URL:
+
+```html
+<link rel="stylesheet" href="https://sigmafarma.github.io/sigmafarma-icomoon/v1.0/style.css">
+```
+
 Where `icon-name` is the name of the icon you want to use. You can find the list of available icons in the [Sigmafarma Icomoon demo page](https://sigmafarma.github.io/sigmafarma-icomoon/v1.0/demo.html).
+
+
+## Change log
+
+### 1.0
+
+- Initial release.
+- Added icon-Health icon.
