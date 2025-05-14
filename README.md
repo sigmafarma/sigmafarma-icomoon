@@ -36,6 +36,12 @@ Legacy font versions are not deleted, so you can use the version you need by cha
 
 ## Change log
 
+### 3.1
+
+- Added shopping-bag-speed icon.
+- Added ticket-outline icon.
+- Added generic-medicine icon.
+
 ### 3.0
 
 - Added icon-Fedefarma icon.
